@@ -1,6 +1,4 @@
-# SoftwareGeeks
-
-The final project for CS3354: Software Engineering
+# SoftwareGeeks Final project- CS3354
 
 ## Calendar Software:-
 
