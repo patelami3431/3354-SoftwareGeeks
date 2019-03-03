@@ -3,7 +3,9 @@ The final project for CS3354: Software Engineering
 
 ## Calendar Software
 
-#### _Authors_:
+### _Authors_:
+
+------------------------------------------------------------------------------------------------
 ##### Ami Patel
 ##### Dhruvi Patel
 ##### Jay Patel
