@@ -1,14 +1,18 @@
 # SoftwareGeeks
+
 The final project for CS3354: Software Engineering
 
-## Calendar Software
+## Calendar Software:-
 
-### _Authors_:
+### Developers:-
 
 ------------------------------------------------------------------------------------------------
-##### Ami Patel
-##### Dhruvi Patel
-##### Jay Patel
-##### Vimal Patel
-##### Smit Shah
+
+##### 1. Ami Patel
+##### 2. Dhruvi Patel
+##### 3. Jay Patel
+##### 4. Vimal Patel
+##### 5. Smit Shah
+
+------------------------------------------------------------------------------------------------
 
